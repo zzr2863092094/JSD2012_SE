@@ -20,6 +20,5 @@ public class IndexOfDemo {
         //检索最后一次出现给定字符串的位置
         index = str.lastIndexOf("in");
         System.out.println(index);//9
-
     }
 }
