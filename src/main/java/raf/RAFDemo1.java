@@ -1,10 +1,8 @@
 package raf;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.util.Random;
-import java.util.RandomAccess;
+
 
 /**
  * java.io.RandomAccessFile
