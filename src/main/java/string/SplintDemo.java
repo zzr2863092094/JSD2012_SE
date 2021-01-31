@@ -28,7 +28,7 @@ public class SplintDemo {
          */
         }
         str = "，123,,,456,789,,,,,,";
-        //按照","拆分
+        /*按照","拆分*/
         arr = str.split(",");
         System.out.println(arr.length);
         for(int i=0;i<arr.length;i++){

@@ -12,7 +12,7 @@ import java.util.Scanner;
  * 然后将该记录写入文件user.dat中保存。
  *
  * 每条记录占用固定的100字节，其中用户名，密码，昵称为字符串，各占
- * 32字节。年龄为int值占4字节‘
+ * 32字节。年龄为int值占4字节。
  */
 public class RegDemo {
     public static void main(String[] args) throws IOException {
